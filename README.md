@@ -1,1 +1,2 @@
-# SQITK3073
+# SQITK3073 BA programming
+individual project
